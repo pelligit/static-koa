@@ -7,7 +7,7 @@
 ```bash
 $ git clone https://github.com/pelligit/static-koa.git 
 
-$ cd static-koa & npm install
+$ cd static-koa && npm install
 
 # 开启本地服务器
 $ npm start
